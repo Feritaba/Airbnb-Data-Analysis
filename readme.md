@@ -1,7 +1,7 @@
 
 # Seattle Airbnb Data Analysis
 
-Do you want to be an Airbnb host in Seattle and just wondering where to start? Here I'm analyzing data gathered by Airbnb to answer your question. In this analysis I went over the data gathered by Airbnb to see 1) which neighborhood has the highest number of super hosts, 2) which neighborhood has the highest rental price and 3) how many places are available per home type.
+Do you want to be an Airbnb host in Seattle and just wondering where to start? Here I'm analyzing data gathered by Airbnb to answer your question. In this analysis I went over the data gathered by Airbnb to see 1) which neighborhood has the highest number of super hosts, 2) which neighborhood has the highest rental price and 3) how many places are available per home type. Read more on medium: https://foroozan-akhavan.medium.com/
 
 ## 1) Which neighborhood has the highest number of super hosts? :
 
