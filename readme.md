@@ -7,7 +7,7 @@ Do you want to be an Airbnb host in Seattle and just wondering where to start? H
 	and
 	3) how many places are available per home type.
 
-	Read more on medium: https://foroozan-akhavan.medium.com/
+	Read more on medium: https://foroozan-akhavan.medium.com/do-you-want-to-become-a-host-on-airbnb-in-seattle-and-you-dont-know-where-to-start-5c4dfa7af470
 
 ## Repository Contents and Python Libraries:
 
