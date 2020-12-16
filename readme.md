@@ -44,7 +44,3 @@ In this question I will help hosts to choose the home type that they think might
 Finally, answers to these three questions helps hosts to start off their business in the online renting market. It should not be limited to these interpretations. There are a lot factors that affects the business in the market and should not be underestimated. But for these three questions prospective hosts will have an idea where to start. They also will find out if the neighborhood is good for renting, is their prices fair and is their home type suitable for guests.# Airbnb-Data-Analysis
 
 
-## Acknowledgments:
-
-Data used for this analysis: https://www.kaggle.com/airbnb/seattle
-
